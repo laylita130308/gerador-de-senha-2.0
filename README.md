@@ -1,1 +1,0 @@
-# gerador-de-senha-2.0
